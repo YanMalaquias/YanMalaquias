@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 --> 
 <div align="center">
   <a href="https://github.com/YanMalaquias">
-  <img height="180em" src="https://github.com/YanMalaquias/YanMalaquias.git´"></a>
+  <img height="180em" src="https://github.com/YanMalaquias/YanMalaquias.git"></a>
 </div>
 
 <div style="display: inline_block"><br>
