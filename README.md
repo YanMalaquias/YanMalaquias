@@ -13,8 +13,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-themes/README.md
---> <div style="display: inline_block"><br>
+
+--> 
+<div align="center">
+  <a href="https://github.com/YanMalaquias">
+  <img height="180em" src="https://github.com/YanMalaquias/YanMalaquias.git´"></a>
+</div>
+
+<div style="display: inline_block"><br>
   <img align="center" alt="Yan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Yan-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Yan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
