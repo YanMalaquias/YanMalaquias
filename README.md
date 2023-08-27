@@ -1,4 +1,5 @@
-### Oi meu nome e Yan!! Sou estudante de analise e desenvolvimento desistemas.
+<div align="center"> <h1>Oi meu nome e Yan!! Sou estudante de analise e desenvolvimento desistemas.</div>
+<br></br>
 
 <!--
 **YanMalaquias/YanMalaquias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,16 +16,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 --> 
+<br></br>
 <div align="center">
   <a href="https://github.com/YanMalaquias">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YanMalaquias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></a>
 </div>
 <!-- Background -->
 
-![techstack](https://user-images.githubusercontent.com/52347812/137624699-ce6bb7ee-eb84-46f1-ac69-c4b78b22db90.png)
-
 <!-- Introduction -->
-
+<br></br>
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Yan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Yan-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -34,11 +34,12 @@ Here are some ideas to get you started:
   <img align="center" alt="Yan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Yan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div> 
+<br></br>
 <div align="center">
   <a href="https://github.com/YanMalaquias">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanMalaquias&layout=compact&langs_count=7&theme=dracula"/></a>
 </div>
-
+<br></br>
 ##
 
 <div align="center"> 
