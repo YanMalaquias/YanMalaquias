@@ -1,4 +1,4 @@
-<div align="center"> <h1>Oi meu nome e Yan!! Sou estudante de analise e desenvolvimento desistemas.</div>
+<div align="center"> <h1>Oi meu nome é Yan!! Sou estudante de analise e desenvolvimento desistemas.</div>
 <br></br>
 
 <!--
