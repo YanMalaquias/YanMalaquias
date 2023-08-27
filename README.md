@@ -19,6 +19,11 @@ Here are some ideas to get you started:
   <a href="https://github.com/YanMalaquias">
   <img height="180em" src="https://github.com/YanMalaquias/YanMalaquias.git"></a>
 </div>
+<!-- Background -->
+
+![techstack](https://user-images.githubusercontent.com/52347812/137624699-ce6bb7ee-eb84-46f1-ac69-c4b78b22db90.png)
+
+<!-- Introduction -->
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Yan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
