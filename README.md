@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/YanMalaquias">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanMalaquias&layout=compact&langs_count=7&theme=dracula"/></a>
+  <img height="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanMalaquias&theme=vue-dark&hide_border=true"/></a>
 </div>
 
 <br></br>
