@@ -25,11 +25,9 @@ Here are some ideas to get you started:
       <img height="250em" src="https://github-readme-stats.vercel.app/api?username=YanMalaquias&theme=vue-dark&hide_border=true"/></a>
   <br>
       <img height="250em" src="https://github-readme-streak-stats.herokuapp.com/?user=YanMalaquias&theme=vue-dark&hide_border=true"/>
-  <br> 
-      <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanMalaquias&theme=vue-dark&hide_border=true"/></a>
-  <br>
+ <br> 
   
-  </div>
+ </div>
 <!-- Background -->
 
 <!-- Introduction -->
