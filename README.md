@@ -24,15 +24,13 @@ Here are some ideas to get you started:
 <div align="center">
   
   <a href="https://github.com/YanMalaquias">
-    
       <img height="250em" src="https://github-readme-stats.vercel.app/api?username=YanMalaquias&theme=vue-dark&hide_border=true"/></a>
   <br></br>
-  
-  
       <img height="250em" src="https://github-readme-streak-stats.herokuapp.com/?user=YanMalaquias&theme=vue-dark&hide_border=true"/>
  <br> </br>
   
  </div>
+ 
 <!-- Background -->
 
 <!-- Introduction -->
